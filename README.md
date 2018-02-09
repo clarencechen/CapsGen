@@ -1,2 +1,1 @@
-# CapsGen
-An exploration into harnessing Hinton's Dynamically Routed Capsule Networks for generative tasks.
+An attempt to extend (https://github.com/XifengGuo/CapsNet-Keras/) to classify and generate novel examples trained on CIFAR-10 instead of MNIST as in Hinton (2017).
